@@ -1,0 +1,10 @@
+#frogImg_div {
+    text-align: center;
+    margin-top: 3cm;
+}
+
+#frogImg {
+    width: auto;
+    height: 50vh;
+    transition: all 0.5s;
+}
